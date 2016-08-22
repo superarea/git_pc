@@ -6,3 +6,5 @@ Git is free software.
 4
 5
 6
+
+add and commit 
