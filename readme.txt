@@ -8,3 +8,5 @@ Git is free software.
 6
 
 add and commit 
+
+test diff
