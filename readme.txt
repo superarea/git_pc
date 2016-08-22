@@ -10,3 +10,6 @@ Git is free software.
 add and commit 
 
 test diff
+
+super
+star
