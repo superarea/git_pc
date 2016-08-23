@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8"/>
+    <title>日历 - 插件</title>
+    <link rel="stylesheet" type="text/css" href="date.css">
+    <link rel="shortcut icon" href="http://www.dev.gomeplus.com/favicon.ico">
+    <script src="jquery.min.js"></script>
+    <script src="date2.js"></script>
+    <script>
+        $(function () {
+           // $('[data-node=showDate]').miniDate();
+            $.fn.miniDate();
+        });
+    </script>
+</head>
+<body>
+<!-- <div class="clearfix dome3_box" data-node="demo_box"> -->
+    <!--日历 begin-->
+    <input class="showDate" value='点击选择日期' readonly="readonly" data-node="showDate"/>
+    <input class="aa" value='选择日期' readonly="readonly" data-node="showDate"/>
+   <!--  <div class="data_box" data-node="data_box">
+       <span class="showDate" data-node="showDate">点击选择日期</span>
+   </div> -->
+    <!--日历 end-->
+<!-- </div> -->
+</body>
+</html>
