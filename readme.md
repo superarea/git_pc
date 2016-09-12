@@ -1,18 +1,3 @@
-#this is a test txt
+#this is a test 
 ``````
 just for fun
-````````
-superstar
-
-
-ce shi xiu fu bug
-
-su cheng san su
-
-
-test branch
-
-pre branch
-
-
-color
